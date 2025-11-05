@@ -1,4 +1,4 @@
-# 🎮 Desafio de Módulo Alura
+# ☕ Desafio de Módulo Alura
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-%20Em-Andamento-yellow)
